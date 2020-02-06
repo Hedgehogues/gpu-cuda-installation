@@ -45,5 +45,5 @@ but we think this is bad idea. We think you need to use anaconda. Than install a
 19. ```conda activate torch```
 20. ```pip install torch torchvision```
 
-Thanks for instruction (Petr Kozyrev)[https://github.com/Humboldt155]
+Thanks for instruction [Petr Kozyrev](https://github.com/Humboldt155)
 
